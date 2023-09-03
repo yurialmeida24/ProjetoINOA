@@ -1,8 +1,8 @@
 {
-    "SenderEmail": "yurimendes16@gmail.com",
-    "DestinationEmail": "yurimendes8@hotmail.com",
-    "SmtpServer": "smtp.gmail.com",
+    "SenderEmail": " ",
+    "DestinationEmail": " ",
+    "SmtpServer": " ",
     "SmtpPort": 587,
-    "SmtpUsername": "yurimendes16@gmail.com",
-    "SmtpPassword": "ukyorobledxbaomr"
+    "SmtpUsername": " ",
+    "SmtpPassword": " "
 }

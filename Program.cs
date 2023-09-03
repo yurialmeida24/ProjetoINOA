@@ -18,11 +18,23 @@ class Program
         {
             ticker = args[0];
             SetBuyAndSellPrice(double.Parse(args[1]), double.Parse(args[2]), out buyPrice, out sellPrice); 
+            
+            bool emailSent = false;
 
             while (true) 
             {
             double RMP = await API.ApiRequest.GetRegularMarketPrice(ticker);
-            SendEmail (RMP, sellPrice, buyPrice, ticker);
+
+            if (!emailSent) 
+            {
+                emailSent = SendEmail(RMP, sellPrice, buyPrice, ticker);
+            }
+
+
+            if (RMP < sellPrice && RMP > buyPrice) 
+            {
+                emailSent = false;
+            }
 
             await Task.Delay(TimeSpan.FromMinutes(1));
             }
@@ -50,7 +62,7 @@ class Program
             throw new ArgumentException("Erro na entrada dos argumentos!");
         }
     }
-    static void SendEmail (double rmp, double sellprice, double buyprice, string ticker) 
+    static bool SendEmail (double rmp, double sellprice, double buyprice, string ticker) 
     {
             double percent1 = (buyprice - rmp) * 100 / buyprice;
             double percent2 = (rmp - sellprice) * 100 / sellprice; 
@@ -64,11 +76,17 @@ class Program
         {
             EmailConfigurations emailConfigs = EmailConfigReader.Email.GetConfig();
             EmailConfigReader.Email.SendEmail(emailConfigs, emailBody1);
+            return true;
         }
         else if (rmp > sellprice) 
         {
             EmailConfigurations emailConfigs = EmailConfigReader.Email.GetConfig();
             EmailConfigReader.Email.SendEmail(emailConfigs, emailBody2); 
+            return true;
+        }
+        else 
+        {
+            return false;
         }        
     } 
 }
