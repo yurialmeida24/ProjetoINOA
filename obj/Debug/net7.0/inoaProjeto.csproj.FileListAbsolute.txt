@@ -1,0 +1,14 @@
+C:\Users\yurim\OneDrive\Documentos\inoaProjeto\bin\Debug\net7.0\inoaProjeto.exe
+C:\Users\yurim\OneDrive\Documentos\inoaProjeto\bin\Debug\net7.0\inoaProjeto.deps.json
+C:\Users\yurim\OneDrive\Documentos\inoaProjeto\bin\Debug\net7.0\inoaProjeto.runtimeconfig.json
+C:\Users\yurim\OneDrive\Documentos\inoaProjeto\bin\Debug\net7.0\inoaProjeto.dll
+C:\Users\yurim\OneDrive\Documentos\inoaProjeto\bin\Debug\net7.0\inoaProjeto.pdb
+C:\Users\yurim\OneDrive\Documentos\inoaProjeto\obj\Debug\net7.0\inoaProjeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yurim\OneDrive\Documentos\inoaProjeto\obj\Debug\net7.0\inoaProjeto.AssemblyInfoInputs.cache
+C:\Users\yurim\OneDrive\Documentos\inoaProjeto\obj\Debug\net7.0\inoaProjeto.AssemblyInfo.cs
+C:\Users\yurim\OneDrive\Documentos\inoaProjeto\obj\Debug\net7.0\inoaProjeto.csproj.CoreCompileInputs.cache
+C:\Users\yurim\OneDrive\Documentos\inoaProjeto\obj\Debug\net7.0\inoaProjeto.dll
+C:\Users\yurim\OneDrive\Documentos\inoaProjeto\obj\Debug\net7.0\refint\inoaProjeto.dll
+C:\Users\yurim\OneDrive\Documentos\inoaProjeto\obj\Debug\net7.0\inoaProjeto.pdb
+C:\Users\yurim\OneDrive\Documentos\inoaProjeto\obj\Debug\net7.0\inoaProjeto.genruntimeconfig.cache
+C:\Users\yurim\OneDrive\Documentos\inoaProjeto\obj\Debug\net7.0\ref\inoaProjeto.dll

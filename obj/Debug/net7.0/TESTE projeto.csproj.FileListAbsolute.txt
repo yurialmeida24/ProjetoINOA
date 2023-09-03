@@ -1,0 +1,14 @@
+C:\Users\yurim\OneDrive\Documentos\TESTE projeto\bin\Debug\net7.0\TESTE projeto.exe
+C:\Users\yurim\OneDrive\Documentos\TESTE projeto\bin\Debug\net7.0\TESTE projeto.deps.json
+C:\Users\yurim\OneDrive\Documentos\TESTE projeto\bin\Debug\net7.0\TESTE projeto.runtimeconfig.json
+C:\Users\yurim\OneDrive\Documentos\TESTE projeto\bin\Debug\net7.0\TESTE projeto.dll
+C:\Users\yurim\OneDrive\Documentos\TESTE projeto\bin\Debug\net7.0\TESTE projeto.pdb
+C:\Users\yurim\OneDrive\Documentos\TESTE projeto\obj\Debug\net7.0\TESTE projeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yurim\OneDrive\Documentos\TESTE projeto\obj\Debug\net7.0\TESTE projeto.AssemblyInfoInputs.cache
+C:\Users\yurim\OneDrive\Documentos\TESTE projeto\obj\Debug\net7.0\TESTE projeto.AssemblyInfo.cs
+C:\Users\yurim\OneDrive\Documentos\TESTE projeto\obj\Debug\net7.0\TESTE projeto.csproj.CoreCompileInputs.cache
+C:\Users\yurim\OneDrive\Documentos\TESTE projeto\obj\Debug\net7.0\TESTE projeto.dll
+C:\Users\yurim\OneDrive\Documentos\TESTE projeto\obj\Debug\net7.0\refint\TESTE projeto.dll
+C:\Users\yurim\OneDrive\Documentos\TESTE projeto\obj\Debug\net7.0\TESTE projeto.pdb
+C:\Users\yurim\OneDrive\Documentos\TESTE projeto\obj\Debug\net7.0\TESTE projeto.genruntimeconfig.cache
+C:\Users\yurim\OneDrive\Documentos\TESTE projeto\obj\Debug\net7.0\ref\TESTE projeto.dll
